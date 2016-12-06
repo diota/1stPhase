@@ -8,7 +8,7 @@ var game = new Phaser.Game(width, height, Phaser.AUTO, null, {preload: preload, 
 var player;
 var food;
 var cursors;
-var speed = 175;
+var speed = 2000;
 var score = 0;
 var scoreText;
 
